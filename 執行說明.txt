@@ -1,0 +1,12 @@
+
+進入目標資料夾
+
+pip install reportlab(在你的虛擬環境中多安裝 reportlab（用來產 PDF）)
+
+執行
+
+python agromind_gui.py
+
+先按「執行 AI 建議」取得結果
+
+接著按「匯出 PDF 報告」→ 選擇存檔位置 → 生成 PDF
